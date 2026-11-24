@@ -1,0 +1,6 @@
+path: data_small
+train: images/train
+val: images/val
+
+nc: 2
+names: ['person', 'phone']
